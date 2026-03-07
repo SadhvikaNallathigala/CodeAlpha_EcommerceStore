@@ -2,7 +2,7 @@
 
 Full Stack Internship Project - CodeAlpha
 
-## Features
+## Features 
 - User Registration & Login (JWT Authentication)
 - Product Management
 - Order System

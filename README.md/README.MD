@@ -1,6 +1,6 @@
 # CodeAlpha E-commerce Store
 
-Full Stack Internship Project - CodeAlpha
+Full Stack Internship Project - CodeAlpha 
 
 ## Features 
 - User Registration & Login (JWT Authentication)

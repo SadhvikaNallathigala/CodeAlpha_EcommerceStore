@@ -6,7 +6,7 @@ This project demonstrates how an online store manages users, products, and order
 The application follows a **scalable backend architecture** commonly used in modern e-commerce platforms.
 
 ---
-
+ 
 # 🚀 Features
 
 ### 🔐 User Authentication

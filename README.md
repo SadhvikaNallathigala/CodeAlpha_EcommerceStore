@@ -4,7 +4,7 @@ A backend-powered **E-commerce Store API** developed using **Node.js, Express.js
 This project demonstrates how an online store manages users, products, and orders through RESTful APIs.
 
 The application follows a **scalable backend architecture** commonly used in modern e-commerce platforms.
-
+ 
 ---       
   
 # 🚀 Features
